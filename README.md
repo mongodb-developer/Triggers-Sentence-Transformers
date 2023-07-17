@@ -1,4 +1,4 @@
-![Hugging Face Demo](https://d3.harvard.edu/platform-digit/wp-content/uploads/sites/2/2022/04/demo-huggingface_optimized-370x200.png)
+![Hugging Face Demo](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png)
 
 **Atlas Triggers And Huggingface Sentence Transformers**
 
