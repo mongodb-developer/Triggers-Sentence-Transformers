@@ -9,7 +9,7 @@ Steps:
 1. Install pymongo:
 
 ```
-   pip install pymongo
+pip install pymongo
 ```
 Install sentence-transformers:
 
