@@ -7,7 +7,7 @@ The sample python code provided uses the all-MiniLM-L6-v2 sentence transformer m
 
 Steps:
 
-1. Install pymongo:
+Install pymongo:
 
 ```
 pip3 install pymongo
