@@ -1,3 +1,6 @@
+# example of a trigger that utilizes Sentence Transformers to analyze the content of a newly 
+# inserted document and assigns it to predefined categories or topics:
+
 exports = async function(changeEvent) {
   const doc = changeEvent.fullDocument;
 
