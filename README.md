@@ -10,12 +10,12 @@ Steps:
 1. Install pymongo:
 
 ```
-pip install pymongo
+pip3 install pymongo
 ```
 Install sentence-transformers:
 
 ```
-pip install -U sentence-transformers
+pip3 install -U sentence-transformers
 ```
 Run the following code to create the test collection with corresponding vector embeddings:
 
