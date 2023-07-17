@@ -113,4 +113,4 @@ for result in results:
 ```
 🤗 [Hugginface Documentation](https://huggingface.co/docs)
 
-[Atlas Triggers Documentation](https://www.mongodb.com/docs/atlas/app-services/triggers/)
+🍃 [Atlas Triggers Documentation](https://www.mongodb.com/docs/atlas/app-services/triggers/)
