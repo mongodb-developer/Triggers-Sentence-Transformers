@@ -109,6 +109,6 @@ for result in results:
     print(result['sentence'])
     print("**************************************************")
 ```
-🤗 [Hugginface Documentation](https://huggingface.co/docs)
+🤗 [Huggin Face Documentation](https://huggingface.co/docs)
 
 🍃 [Atlas Triggers Documentation](https://www.mongodb.com/docs/atlas/app-services/triggers/)
