@@ -61,7 +61,7 @@ Copy code
   }
 }
 ```
-Now you can run the following code to perform semantic search for various sentences (uncomment the query you want to run) - note that my index is named "default" and that's why the query does not specify the index name; if your index is not named default then please include your index's name in the query:
+Now you can run the following code to perform semantic search for various sentences (uncomment the query you want to run) - note that my index is named "default" and that's why the query does not specify the index name if your index is not named default then please include your index's name in the query:
 
 ```
 import pymongo
