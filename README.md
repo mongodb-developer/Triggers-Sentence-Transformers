@@ -1,2 +1,2 @@
-# Triggers-Sentence-Transformers
-This trigger demonstrates how you can automatically update document embeddings whenever a new document is inserted or modified in a specific collection.
+![Hugging Face Demo](https://d3.harvard.edu/platform-digit/wp-content/uploads/sites/2/2022/04/demo-huggingface_optimized-370x200.png)
+
