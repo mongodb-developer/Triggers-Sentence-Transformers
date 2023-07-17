@@ -1,4 +1,4 @@
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" alt="Hugging Face Logo" width="200">
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" alt="Hugging Face Logo" width="300">
 
 
 **Atlas Triggers And Huggingface Sentence Transformers**
