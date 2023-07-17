@@ -46,8 +46,6 @@ for doc in docs:
     print(result)
 Create the following Atlas Search index on the vectors_demo_1 collection:
 
-json
-Copy code
 {
   "mappings": {
     "dynamic": true,
