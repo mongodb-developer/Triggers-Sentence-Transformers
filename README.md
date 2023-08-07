@@ -44,8 +44,9 @@ for doc in docs:
     result_doc['vectorEmbedding'] = doc_vector
     result = db.vectors_demo_1.insert_one(result_doc.copy())
     print(result)
+```
 Create the following Atlas Search index on the vectors_demo_1 collection:
-
+```
 {
   "mappings": {
     "dynamic": true,
