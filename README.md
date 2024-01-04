@@ -113,6 +113,6 @@ for result in results:
     print(result['sentence'])
     print("**************************************************")
 ```
-🤗 [Huggin Face Documentation](https://huggingface.co/docs)
+🤗 [HuggingFace Documentation](https://huggingface.co/docs)
 
 🍃 [Atlas Triggers Documentation](https://www.mongodb.com/docs/atlas/app-services/triggers/)
