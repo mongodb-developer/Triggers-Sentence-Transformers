@@ -3,7 +3,7 @@
 
 **Atlas Triggers And HuggingFace Sentence Transformers**
 
-The sample python code provided uses the all-MiniLM-L6-v2 sentence transformer model, from Hugging Face. It maps the sentences (docs to insert in collection as well as for query string) to a 384 dimensional dense vector space, and creates corresponding vector embeddings (list of numbers). This tutorial requires basic knowledge of Python, and assumes that you have an existing Atlas Cluster. Simple Vector demo below
+The sample python code provided uses the all-MiniLM-L6-v2 sentence transformer model, from HuggingFace. It maps the sentences (docs to insert in collection as well as for query string) to a 384 dimensional dense vector space, and creates corresponding vector embeddings (list of numbers). This tutorial requires basic knowledge of Python, and assumes that you have an existing Atlas Cluster. Simple Vector demo below
 
 Steps:
 
